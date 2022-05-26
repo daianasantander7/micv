@@ -334,6 +334,11 @@ background-position: 0 0,14px 14px;
     }
     .hero__title{
         font-size: 3rem;
+        align-title: center;
+        
+    }
+    .hero__copy{
+    align-title: center;
     }
     .hero__cta{
         display: block;
@@ -391,6 +396,7 @@ background-position: 0 0,14px 14px;
     }
     .title{
         font-size: 1.5rem;
+        align-title: center;
 
 }
 }
